@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Naji!  
 
-🚀 **Aspiring Full Stack Developer  
+🚀 Aspiring Full Stack Developer  
 🔍 Passionate about building scalable, user-focused applications and contributing to innovative tech solutions.
 
 ---
