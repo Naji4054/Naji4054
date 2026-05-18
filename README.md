@@ -6,25 +6,25 @@
 ---
 
 ## 🌟 **About Me**
-- 💻 Skilled in **React.js**, **Node.js**, and **Full-Stack Development**.
+- 💻 Skilled in **React.js**, **Frappe/ ERP-Next** **Node.js**, and **Full-Stack Development**.
 - 🎯 Proficient in **Responsive Design**, **RESTful APIs**, and **Database Integration** using **MySQL** and **MongoDB**.
-- 🧩 Experienced in **Python**, **Java**, and **C++** with a strong problem-solving mindset.
+- 🧩 Experienced in **Python**, **Javascript**, with a strong problem-solving mindset.
 - 🌍 Open to collaboration on impactful projects and dynamic tech teams.
 
 ---
 
 ## 💡 **Technical Skills**
-- **Frontend:** React.js, HTML, CSS, JavaScript, Redux  
-- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Frontend:** React.js, HTML, CSS, JavaScript, Redux, Frappe  
+- **Backend:** Node.js, Express.js, RESTful APIs, Pyhton 
 - **Database:** MySQL, MongoDB  
-- **Programming Languages:** Python, Java, C++  
-- **Tools:** Visual Studio Code, Vercel  
-- **Other Skills:** Responsive Web Design, Object-Oriented Programming, Basic .NET Framework  
+- **Programming Languages:** Python, Javascript  
+- **Tools:** Visual Studio Code, Vercel 
+- **Other Skills:** Responsive Web Design, Object Oriented Programming, Git and GitHub
 
 ---
 
 ## 📜 **Certifications**
-- **Microsoft Full-Stack Developer Certificate** (Ongoing)  
+- **Responsive Web Design** (Ongoing)  
 - **Building an E-commerce Full-Stack Website (MERN)** - Udemy  
 - **Advanced Python Programming** - Board Infinity  
 - **Core and Advanced Java Programming** - Board Infinity
@@ -38,7 +38,7 @@
 
 ## 🌐 **Let's Connect**
 - **LinkedIn:** [Muhammed Naji](https://www.linkedin.com/in/mhd-naji)  
-- **Email:** mhdnaji4054@gmail.com
+- **Email:** mhdnaji488@gmail.com
 
 ---
 
