@@ -1,45 +1,59 @@
-# 👋 Hi, I'm Muhammed Naji!  
+# Hi, I'm Muhammed Naji!
 
-🚀 Aspiring Full Stack Developer  
-🔍 Passionate about building scalable, user-focused applications and contributing to innovative tech solutions.
-
----
-
-## 🌟 **About Me**
-- 💻 Skilled in **React.js**, **Frappe/ ERP-Next** **Node.js**, and **Full-Stack Development**.
-- 🎯 Proficient in **Responsive Design**, **RESTful APIs**, and **Database Integration** using **MySQL** and **MongoDB**.
-- 🧩 Experienced in **Python**, **Javascript**, with a strong problem-solving mindset.
-- 🌍 Open to collaboration on impactful projects and dynamic tech teams.
+ERPNext Developer | Full Stack Developer | Python | JavaScript | Frappe | MERN | Dubai, UAE
 
 ---
 
-## 💡 **Technical Skills**
-- **Frontend:** React.js, HTML, CSS, JavaScript, Redux, Frappe  
-- **Backend:** Node.js, Express.js, RESTful APIs, Pyhton 
-- **Database:** MySQL, MongoDB  
-- **Programming Languages:** Python, Javascript  
-- **Tools:** Visual Studio Code, Vercel 
-- **Other Skills:** Responsive Web Design, Object Oriented Programming, Git and GitHub
+## About Me
+
+- ERPNext developer with hands-on experience building custom Frappe applications on Frappe Bench including HR dashboards, Payroll dashboards, and department-specific operational tools
+- Skilled in Python server scripts, client scripts, hooks, custom Doctypes, Jinja templating, workflow automation, and REST API development on the Frappe framework
+- Full stack web development experience using MERN stack — React.js, Node.js, Express.js, MongoDB
+- Published researcher — IEEE Xplore indexed paper presented at IC3SE 2024
+- Based in Dubai, UAE | Open to Work
 
 ---
 
-## 📜 **Certifications**
-- **Responsive Web Design** (Ongoing)  
-- **Building an E-commerce Full-Stack Website (MERN)** - Udemy  
-- **Advanced Python Programming** - Board Infinity  
-- **Core and Advanced Java Programming** - Board Infinity
+## Technical Skills
+
+**ERP & Frappe:** ERPNext, Frappe Framework, Frappe Bench, Custom Doctypes, Jinja Templating, Workflow Automation, Server Scripts, Client Scripts, Hooks, Print Formats, Custom Reports
+
+**Languages & Frontend:** Python, JavaScript, HTML, CSS, React.js
+
+**Backend & Database:** Node.js, Express.js, REST APIs, MongoDB, MySQL, MariaDB
+
+**Tools:** Git, GitHub, VS Code, Postman, Vercel
 
 ---
 
-## 🏆 **Achievements**
-- Published research paper: *Advancements in Automated Tumor Detection Screening* in IJSREM. [DOI: 10.1109/IC3SE62002.2024.10593110](https://doi.org/10.1109/IC3SE62002.2024.10593110)
+## What I Have Built
+
+**ERPNext & Frappe (Novel Office)**
+- Custom Frappe web applications on Frappe Bench for multiple business departments
+- HR dashboard centralizing all HR operations and workflows
+- Payroll dashboard for payroll processing and management
+- Custom Doctypes, forms, print formats, and automated workflows
+- REST API development between Frappe frontend and Python backend
+- Dynamic reports using Jinja templating for client documentation needs
+- Git-based deployments with live updates on Frappe Bench
+
+**Full Stack Web Development (Maitexa Technologies)**
+- Full stack e-commerce web application using MERN stack
+- Responsive web applications with React.js, Node.js, Express.js, MongoDB
+- User authentication, file upload, form handling with MongoDB data persistence
+- Deployed on Vercel with real-world UI implementations
 
 ---
 
-## 🌐 **Let's Connect**
-- **LinkedIn:** [Muhammed Naji](https://www.linkedin.com/in/mhd-naji)  
-- **Email:** mhdnaji488@gmail.com
+## Research Publication
+
+Advancements in Automated Tumor Detection Screening: A Comprehensive Review and Comparative Analysis
+Presented at IC3SE 2024 | Published in IJSREM | Indexed in IEEE Xplore
+DOI: https://doi.org/10.1109/IC3SE62002.2024.10593110
 
 ---
 
-✨ *Feel free to explore my repositories below to see more of my work and contributions!* 😊
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/mhd-naji
+- Email: mhdnaji488@gmail.com
