@@ -1,8 +1,6 @@
 # Hi, I'm Muhammed Naji!
 
-ERPNext Developer | Full Stack Developer | Python | JavaScript | Frappe | MERN | Dubai, UAE
-
----
+ERPNext Developer | Full Stack Developer | Python | JavaScript | Frappe | MERN
 
 ## About Me
 
@@ -10,7 +8,6 @@ ERPNext Developer | Full Stack Developer | Python | JavaScript | Frappe | MERN |
 - Skilled in Python server scripts, client scripts, hooks, custom Doctypes, Jinja templating, workflow automation, and REST API development on the Frappe framework
 - Full stack web development experience using MERN stack — React.js, Node.js, Express.js, MongoDB
 - Published researcher — IEEE Xplore indexed paper presented at IC3SE 2024
-- Based in Dubai, UAE | Open to Work
 
 ---
 
